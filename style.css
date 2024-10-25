@@ -1,6 +1,19 @@
 body {
-    background-image: liner linear-gradient(#1ec508,#17b306,#0fa004);
-    color:#088e02;
+    background-image: liner linear-gradient(#b1518c,#c569a5,#ec9ad6);
+    color:#ffb2ef;
     font: size 25px;
 }
 
+h1{
+    color:#ec9ad6;
+}
+
+h2 {
+    background-color: #b1518c;
+    color:#c569a5;
+}
+
+img {
+    width:500px;
+    height:200px;
+}
