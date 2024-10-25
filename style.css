@@ -1,7 +1,6 @@
 body {
     background-image: liner linear-gradient(#1ec508,#17b306,#0fa004);
     color:#088e02;
-    font-size:35px;
+    font: size 25px;
 }
 
-h1{ 
